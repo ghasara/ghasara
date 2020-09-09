@@ -18,6 +18,7 @@
 - [Slashbox](https://slashbox.tech/)
 - [Patentskart](https://patentskart.com/)
 - [PayPerResumes](https://payperresumes.herokuapp.com)
+- [ChatApp](https://nodev8chatapp.herokuapp.com)
 
  ## :trophy: Languages and Tools: :robot:
 
