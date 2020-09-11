@@ -12,7 +12,7 @@
 
 
 ## :pencil2: My Projects: :trophy: 
-- [Social](https://ghasara.github.io/social)      
+- [SocialBird](https://ghasara.github.io/socialbird/)      
 - [Votonimo](https://votonimo.com)
 - [mhealth.ai](https://mhealth.ai)
 - [Slashbox](https://slashbox.tech/)
